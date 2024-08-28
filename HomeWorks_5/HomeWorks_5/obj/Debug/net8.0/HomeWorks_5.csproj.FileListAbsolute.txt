@@ -1,0 +1,14 @@
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\bin\Debug\net8.0\HomeWorks_5.exe
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\bin\Debug\net8.0\HomeWorks_5.deps.json
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\bin\Debug\net8.0\HomeWorks_5.runtimeconfig.json
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\bin\Debug\net8.0\HomeWorks_5.dll
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\bin\Debug\net8.0\HomeWorks_5.pdb
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\HomeWorks_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\HomeWorks_5.AssemblyInfoInputs.cache
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\HomeWorks_5.AssemblyInfo.cs
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\HomeWorks_5.csproj.CoreCompileInputs.cache
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\HomeWorks_5.dll
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\refint\HomeWorks_5.dll
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\HomeWorks_5.pdb
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\HomeWorks_5.genruntimeconfig.cache
+C:\Users\MSI-NB\Documents\GitHub\HomeWorks\HomeWorks_5\HomeWorks_5\obj\Debug\net8.0\ref\HomeWorks_5.dll
